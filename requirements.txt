@@ -1,0 +1,8 @@
+torch
+ultralytics
+telepot
+opencv-python
+matplotlib
+seaborn
+pandas
+squarify
